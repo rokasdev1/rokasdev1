@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hello! I am a web and app developer.
+Hello! I'm Rokas, a web and app developer from Lithuania. I am experienced with developing mobile apps using Flutter and creating websites with React.
 
 ## 📫 Portfolio
 
-- **Portfolio:** [Rokas' Portfolio](https://portfolio-rokas.vercel.app/)
+- **Here is my portfolio:** [Rokas' Portfolio](https://portfolio-rokas.vercel.app/)
 
 ## 🚀 Projects
 
