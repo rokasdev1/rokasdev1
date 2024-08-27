@@ -16,6 +16,10 @@ A project where we aimed to fix most of Kaunas's bus transportation system in a 
 - 🎖️Startup award (KSG fair)
 - 🎖️Most European MB award (Winter eXpo '23)
 
+### [Project 2: Realm Bank](https://github.com/rokasdev1/realmbank_mobile)
+A completely functional bank app where you can send or request money directly user-to-user or via QR code. With HIVE, Flutter Bloc and Firestore integration you can request money, send money, switch app themes, scan QR codes to send money, or generate QR codes to request money, view your previous transactions and add save contacts.
 
-### [Project 2: Notes app](https://github.com/rokasdev1/notes_app)
+
+### [Project 3: Notes app](https://github.com/rokasdev1/notes_app)
 A smooth notepad app with HIVE & Firebase Firestore integration. Notes are sharable across other users and UI is customizable.
+
