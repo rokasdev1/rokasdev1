@@ -4,7 +4,7 @@ Hello! I'm Rokas, a web and app developer from Lithuania. I am experienced with 
 
 ## 📫 Portfolio
 
-- **Here is my portfolio:** [Rokas' Portfolio](https://portfolio-rokas.vercel.app/)
+- **Here is my portfolio:** [Rokas' Portfolio](https://rokasdev1.github.io/My-Portfolio/)
 
 ## 🚀 Projects
 
